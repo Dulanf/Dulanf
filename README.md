@@ -1,16 +1,33 @@
-## Hi there 👋
+# Dulan Fernando
 
-<!--
-**Dulanf/Dulanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Physics @ McMaster University • Business Analyst Co-op @ CIBC  
+I like building practical systems that sit between **Engineering + Data + Business**. Turning messy, cross-team problems into clear models, tools, and docs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m up to
+- Building **platform economics / chargeback** models (usage-based + governance + incentives)
+- Learning + using **Databricks / Azure** for analytics and cost/usage visibility
+- Shipping small tools that make teams faster (dashboards, automation, templates)
+
+---
+
+## Interests
+- Product + project management
+- Data platform strategy (FinOps, chargeback/showback, governance)
+- Software + digital systems (Python, SQL, dashboards, automation)
+
+---
+
+## Tech & Tools
+**Languages:** Python, SQL, C/C++, MATLAB  
+**Data/BI:** Databricks, Power BI  
+**Platforms:** Azure  
+**Other:** Git, Excel modeling, documentation & stakeholder comms
+
+---
+
+## Let’s connect
+- LinkedIn: *https://www.linkedin.com/in/dulanf/*
+- Email: *Dulanf@hotmail.com*
+
