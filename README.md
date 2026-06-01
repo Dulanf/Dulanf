@@ -1,7 +1,7 @@
 # Dulan Fernando
 
-Engineering Physics @ McMaster University • Business Analyst Co-op @ CIBC  
-I like building practical systems that sit between **Engineering + Data + Business**. Turning messy, cross-team problems into clear models, tools, and docs.
+Engineering Physics @ McMaster University • Data Analyst Co-op @ CIBC Chief Data & AI
+I like building practical systems that sit between **Engineering + Data + Business**. Turning messy, cross-team problems into clear models, tools, and flows.
 
 ---
 
